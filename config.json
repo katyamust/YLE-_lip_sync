@@ -1,0 +1,18 @@
+{
+    "path":{
+        "Jari"  : "/data",
+        "Katya" : "C:/Users/kamustaf/Documents/YLE_lip_sync/"
+    },
+
+    "saga": {
+        "input_video"  : "saga_2min.mp4.csv",
+        "input_audio"  : "saga_2min.wav.csv",
+        "output"       : "yle_saga_dataset.csv"
+    },
+
+    "oddsat": {
+        "input_video" : "oddasat.mp4.csv",
+        "input_audio" : "oddasat.wav.csv",
+        "output"      : "yle_oddasat_dataset.csv"
+    }
+}
